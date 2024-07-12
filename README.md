@@ -2,9 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](//www.linkedin.com/in/claudio-cardoso-b188b368)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioCardosoUSS&show_icons=true&theme=draducla)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioCardosoUSS&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCardosoUSS&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCardosoUSS&theme=dark&hide_progress=true)
 
 ### 🚀 Skills
 
